@@ -153,7 +153,7 @@
         <dependency>
             <groupId>com.esotericsoftware.yamlbeans</groupId>
             <artifactId>yamlbeans</artifactId>
-            <version>1.13</version>
+            <version>1.17</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
